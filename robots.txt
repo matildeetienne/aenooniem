@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://esaideethe.1ou6x1n7.top/sitemap.xml
